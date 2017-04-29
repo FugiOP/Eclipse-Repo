@@ -1,0 +1,23 @@
+#ignore everything
+*
+
+#but not these files...
+!.gitignore
+
+!src
+!src/
+!src/**
+
+!WebContent
+!WebContent/
+!WebContent/**
+
+!libs
+!libs/
+!libs/**
+
+!*.txt
+!*.md
+
+#MAC HIDDEN FILES
+.DS_store
